@@ -1,0 +1,11 @@
+
+
+I think I might be able to access this api
+
+https://leetcode.com/api/submissions/?offset=0&limit=20
+
+if I am able to use my auth creds in the request header. Should 
+this be the case I can simply fetch this data every day check to see if
+I already added it and if not append up until I reach old submission
+
+
